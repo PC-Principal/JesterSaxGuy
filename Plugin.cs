@@ -19,7 +19,7 @@ namespace JesterSaxGuy
         private const string modName = "Jester sax guy sound";
 
         /* mod version */
-        private const string modVersion = "1.0.0";
+        private const string modVersion = "1.0.1";
         
         /* Audio file variable */
         public static AudioClip Audio;

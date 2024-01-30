@@ -1,6 +1,6 @@
 {
     "name": "JesterSaxGuy",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/PC-Principal/JesterSaxGuy",
     "description": "Changes the Jester's wind up sound to an Epic Sax (Gandalf Sax Guy music)",
 	"dependencies": [
