@@ -19,7 +19,7 @@ namespace JesterSaxGuy
         private const string modName = "Jester sax guy sound";
 
         /* mod version */
-        private const string modVersion = "1.0.1";
+        private const string modVersion = "1.0.2";
         
         /* Audio file variable */
         public static AudioClip Audio;
@@ -89,7 +89,7 @@ namespace JesterSaxGuy
             if (Plugin.ConstTimer)
             {
                 /* Change instance popUpTimer */
-                __instance.popUpTimer = 41.5f;
+                __instance.popUpTimer = 41f;
             }
         }
     }
